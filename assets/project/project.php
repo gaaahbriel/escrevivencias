@@ -37,7 +37,7 @@
 
 
     <div class="d-flex justify-content-center">
-        <h1>O QUE É O ESCREVIVÊNCIAS NEGRAS?</h1> <br><br><br>
+        <h1>O QUE É O ESCREVIVÊNCIAS NEGRAS?</h1> <br><br>
     </div>
 
     <div class="d-flex justify-content-center">
