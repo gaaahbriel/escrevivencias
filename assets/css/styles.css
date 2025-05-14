@@ -5,25 +5,12 @@
 }
 
 body {
-    background: linear-gradient(90deg, rgba(144, 44, 5, 0.8),rgba(5, 144, 6, 0.8), rgba(255, 0, 0, 0.8),rgba(247, 255, 0, 0.83));
     font-family: "Roboto";
 }
 
 p{
     display: flex;
     margin: 50px;
-}
-
-.mobile-menu{
-    cursor: pointer;
-    display: none;
-}
-
-.mobile-menu div{
-    width: 32px;
-    height: 2px;
-    background-color: #fff;
-    margin: 8px;
 }
 
 @media (max-width: 999px){
