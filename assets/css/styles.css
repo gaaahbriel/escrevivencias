@@ -12,3 +12,17 @@ body {
 p{
         margin: 50px;
 }
+
+@media(max-width: 990px) {
+    .container{
+        margin: auto;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+    
+    img .img-thumbnail{
+        justify-content: center;
+        align-items: center;
+    }
+}
